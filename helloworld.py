@@ -20,7 +20,8 @@ Input: ""   Output: "Hello World!"
 class Solution:
     def helloworld(self):
         # return type: String
-        return "Hello World!"
+        answer = "Hello World!"
+        return answer
         # TODO: Write code below to return a string with the solution to the prompt
         pass
 
